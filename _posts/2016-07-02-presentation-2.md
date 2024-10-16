@@ -1,5 +1,5 @@
 ---
-title: Unidad 2: Actuadoras
+title: Unidad 2, Actuadoras
 layout: post
 permalink: /presentation-2/
 
