@@ -6,8 +6,7 @@ theme: beige
  
 slides:
  - title: Tipos
-   slide-data:
-   * Actuadores lineales. Proporcionan movimiento lineal. Ejemplo. cilindros electricos
+   slide-data: * Actuadores lineales. Proporcionan movimiento lineal. Ejemplo. cilindros electricos
    * Actuadores rotativos. Generan movimiento rotacional. Ejemplo. servomotores
    * Actuadores de paso a paso. Permiten movimientos precisos en pasos discretos
    * Actuadores piezoelectricos. Utilizan materiales piezoeléctricos para generar movimiento al aplicar voltaje.
