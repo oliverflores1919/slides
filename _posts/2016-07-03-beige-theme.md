@@ -6,7 +6,7 @@ theme: beige
  
 slides:
  - title: Tipos
-   slide-data: + Actuadores lineales. Proporcionan movimiento lineal. Ejemplo. cilindros electricos
+   slide-data: * Actuadores lineales. Proporcionan movimiento lineal. Ejemplo. cilindros electricos
 
      
  - title: Slide 2
