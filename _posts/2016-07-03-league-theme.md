@@ -1,5 +1,5 @@
 ---
-title: League Theme
+title: Mecanicos
 layout: post
 permalink: /league/
 theme: league
