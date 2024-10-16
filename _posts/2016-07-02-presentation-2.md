@@ -1,12 +1,12 @@
 ---
-title: Unidad 2, Actuadoras
+title: Unidad 2
 layout: post
 permalink: /presentation-2/
 
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Actuadores
+   slide-data: Temas unidad 2
    background: "#e74c3c"
      
  - title: Slide 2
