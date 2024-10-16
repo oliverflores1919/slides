@@ -7,6 +7,7 @@ theme: beige
 slides:
  - title: Tipos
    slide-data: Actuadores lineales. Proporcionan movimiento lineal. Ejemplo. cilindros eléctricos.
+   Actuadores rotativos. Generan movimiento rotacional. Ejemplo. servomotores.
 
      
  - title: Slide 2
