@@ -1,5 +1,5 @@
 ---
-title: Beige Theme
+title: Electricos
 layout: post
 permalink: /beige/
 theme: beige
