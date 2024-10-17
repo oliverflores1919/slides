@@ -5,7 +5,7 @@ permalink: /league/
 theme: league
  
 slides:
- - title: Slide 1
+ - title: Marcadores
    slide-data: This is first slide
  
      
