@@ -13,11 +13,11 @@ slides:
 
    
  - title: Características 
-   slide-data: •	Torque: La fuerza de rotación que pueden generar.
+   slide-data: •	Torque. La fuerza de rotación que pueden generar. •	Velocidad. La rapidez con que pueden moverse. •	Precisión. La capacidad de realizar movimientos exactos, especialmente importante en actuadores de paso a paso •	Capacidad de carga. El peso o la carga que pueden mover •	Tamaño y forma. Varían según la aplicación y el diseño.
 
 
  - title: Modo de comunicación. 
-   slide-data: This is third slide
+   slide-data: •	Control analógico. Uso de voltajes o corrientes analógicas para controlar la posición o velocidad. •	Control digital. Utilizan señales digitales (on/off) para accionar el actuador •	Protocolos de comunicación. Como CAN, RS-485, Modbus, y EtherCAT, que permiten la comunicación en redes industriales •	Comunicación inalámbrica. Algunos actuadores modernos pueden integrarse en sistemas IoT, permitiendo el control remoto y la monitorización a través de redes inalámbricas.
 
 ---
 
