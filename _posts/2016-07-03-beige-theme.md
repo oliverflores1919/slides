@@ -13,7 +13,7 @@ slides:
 
    
  - title: Características 
-   slide-data: •	Torque ":" La fuerza de rotación que pueden generar.
+   slide-data: •	Torque: La fuerza de rotación que pueden generar.
 
 
  - title: Modo de comunicación. 
