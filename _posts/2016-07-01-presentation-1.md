@@ -4,14 +4,14 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Sistemas programables
+   slide-data: Ismael Jimenez Sanchez
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Alumno
+   slide-data: Flores Hernandez Oliver Benjamin
 
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Unidad 2
+   slide-data: Actuadores
   
 ---
 
