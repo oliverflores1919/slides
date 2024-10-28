@@ -5,15 +5,20 @@ permalink: /league/
 theme: league
  
 slides:
- - title: Marcadores
-   slide-data: This is first slide
+ - title: Tipos
+   slide-data: * Actuadores lineales. Mueven cargas en línea recta (ejes eléctricos, cilindros hidráulicos). * Actuadores rotativos. Generan movimiento de rotación (motores eléctricos, servomotores). *
+
  
      
- - title: Slide 2
+ - title: Funcionamiento 
    slide-data: This is second slide
 
    
- - title: Slide 3
+ - title: Caracteristicas
+   slide-data: This is third slide
+
+
+ - title: Modo de comuniacion
    slide-data: This is third slide
 
 ---
