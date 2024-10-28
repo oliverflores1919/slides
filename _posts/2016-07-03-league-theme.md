@@ -13,7 +13,10 @@ slides:
 
    
  - title: Caracteristicas
-   slide-data: 
+   slide-data: Precisión. Capacidad de mover con exactitud.
+Velocidad. Rapidez en la respuesta.
+Capacidad de carga. Peso máximo que pueden mover.
+Durabilidad. Resistencia al desgaste y condiciones adversas.
 
 
  - title: Modo de comuniacion
