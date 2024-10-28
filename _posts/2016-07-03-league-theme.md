@@ -13,14 +13,13 @@ slides:
 
    
  - title: Caracteristicas
-   slide-data: • Precisión. Capacidad de mover con exactitud.
-• Velocidad. Rapidez en la respuesta.
-• Capacidad de carga. Peso máximo que pueden mover.
-• Durabilidad. Resistencia al desgaste y condiciones adversas.
+   slide-data: 
 
 
  - title: Modo de comuniacion
-   slide-data: 
+   slide-data: • Señales eléctricas. En actuadores eléctricos y electrónicos.
+• Protocolos industriales. Como CAN, Modbus, o Ethernet para sistemas automatizados.
+• Controles neumáticos o hidráulicos. Para actuadores que utilizan fluidos.
 
 ---
 
