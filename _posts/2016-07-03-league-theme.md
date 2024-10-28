@@ -6,7 +6,7 @@ theme: league
  
 slides:
  - title: Tipos
-   slide-data: * Actuadores lineales. Mueven cargas en línea recta (ejes eléctricos, cilindros hidráulicos). * Actuadores rotativos. Generan movimiento de rotación (motores eléctricos, servomotores). *
+   slide-data: Actuadores lineales. Mueven cargas en línea recta (ejes eléctricos, cilindros hidráulicos). 
 
  
      
