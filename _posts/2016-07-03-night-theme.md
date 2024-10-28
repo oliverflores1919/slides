@@ -1,5 +1,5 @@
 ---
-title: Extra
+title: Conclusion
 layout: post
 permalink: /night/
 theme: night
