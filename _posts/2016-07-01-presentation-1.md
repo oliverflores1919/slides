@@ -4,14 +4,14 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Sistemas programables
+ - title: DES- DE APLIC.WEB
    slide-data: Ismael Jimenez Sanchez
      
  - title: Alumno
    slide-data: Flores Hernandez Oliver Benjamin
 
- - title: Unidad 2
-   slide-data: Actuadores
+ - title: Tarea #998
+   slide-data: Crear una GitHub page a partir de un template de Jekyll
   
 ---
 
