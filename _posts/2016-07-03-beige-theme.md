@@ -1,5 +1,5 @@
 ---
-title: 
+title: Aplicaciones Web
 layout: Aplicaciones Web
 permalink: /beige/
 theme: beige
