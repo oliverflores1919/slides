@@ -5,22 +5,10 @@ permalink: /presentation-2/
 
  
 slides:
- - title: Actuadores
-   slide-data: Temas unidad 2
+ - title: Desarrollo de aplicaciones web
+   slide-data: Ismael Jimenez Sanchez
    background: "#e74c3c"
      
- - title: 1. Electricos
-   slide-data: Tipos, Funcionamiento, Caracteristicas, Modo de comunicacion 
-   background: '#f1c40f'
-   
- - title: Mecanicos
-   slide-data: Tipos, Funcionamiento, Caracteristicas, Modo de comunicacion 
-   background: '#9b59b6'
-   
- - title: Hidraulicos
-   slide-data: Tipos, Funcionamiento, Caracteristicas, Modo de comunicacion 
-   background: '#3498db'
-   
 ---
 
 {% for slide in page.slides %}
