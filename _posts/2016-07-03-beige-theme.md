@@ -1,6 +1,6 @@
 ---
 title: Aplicaciones Web
-layout: Aplicaciones Web
+layout: post
 permalink: /beige/
 theme: beige
  
