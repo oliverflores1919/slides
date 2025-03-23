@@ -1,23 +1,22 @@
 ---
-title: Electricos
-layout: post
+title: 
+layout: Aplicaciones Web
 permalink: /beige/
 theme: beige
  
 slides:
- - title: Tipos
-   slide-data: • Actuadores lineales. Proporcionan movimiento lineal. Ejemplo. cilindros electricos • Actuadores rotativos. Generan movimiento rotacional. Ejemplo. servomotores • Actuadores de paso a paso. Permiten movimientos precisos en pasos discretos • Actuadores piezoelectricos. Utilizan materiales piezoeléctricos para generar movimiento al aplicar voltaje.
-     
- - title: Funcionamiento 
-   slide-data: •	Recepción de señales. Reciben señales de control desde un sistema de control o un microcontrolador •	Conversión de energía. Utilizan motores eléctricos (DC, AC, servos) para transformar la energía eléctrica en movimiento •	Movimiento. Generan el movimiento deseado, ya sea lineal o rotacional, según su tipo
+ - title: Que son las aplicaciones web?
+   slide-data: • Las aplicaciones web son programas o software que se ejecutan en un navegador web, en lugar de en el sistema operativo de un dispositivo como ocurre con las aplicaciones tradicionales. Estas aplicaciones requieren una conexión a Internet para funcionar, ya que se accede a ellas a través de la web.
 
-   
- - title: Características 
-   slide-data: •	Torque. La fuerza de rotación que pueden generar. •	Velocidad. La rapidez con que pueden moverse. •	Precisión. La capacidad de realizar movimientos exactos, especialmente importante en actuadores de paso a paso •	Capacidad de carga. El peso o la carga que pueden mover •	Tamaño y forma. Varían según la aplicación y el diseño.
+Algunos ejemplos comunes de aplicaciones web incluyen:
 
+Correo electrónico (como Gmail o Outlook)
+Redes sociales (como Facebook, Twitter o Instagram)
+Procesadores de texto (como Google Docs)
 
- - title: Modo de comunicación. 
-   slide-data: •	Control analógico. Uso de voltajes o corrientes analógicas para controlar la posición o velocidad. •	Control digital. Utilizan señales digitales (on/off) para accionar el actuador •	Protocolos de comunicación. Como CAN, RS-485, Modbus, y EtherCAT, que permiten la comunicación en redes industriales •	Comunicación inalámbrica. Algunos actuadores modernos pueden integrarse en sistemas IoT, permitiendo el control remoto y la monitorización a través de redes inalámbricas.
+Herramientas de colaboración (como Trello, Slack o Asana)
+
+Las aplicaciones web suelen estar basadas en tecnologías como HTML, CSS y JavaScript, y se ejecutan en servidores remotos, lo que permite a los usuarios acceder a ellas desde cualquier lugar y en cualquier dispositivo con conexión a Internet, sin necesidad de instalar software adicional.
 
 ---
 
