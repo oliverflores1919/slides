@@ -6,9 +6,12 @@ theme: beige
  
 slides:
  - title: Que son las aplicaciones web?
-   slide-data: • Las aplicaciones web son programas o software que se ejecutan en un navegador web, en lugar de en el sistema operativo de un dispositivo como ocurre con las aplicaciones tradicionales. Estas aplicaciones requieren una conexión a Internet para funcionar, ya que se accede a ellas a través de la web. Algunos ejemplos comunes de aplicaciones web incluyen -Correo electrónico (como Gmail o Outlook) -Redes sociales (como Facebook, Twitter o Instagram) -Procesadores de texto (como Google Docs)
-
-
+   slide-data: • Las aplicaciones web son programas o software que se ejecutan en un navegador web, en lugar de en el sistema operativo de un dispositivo como ocurre con las aplicaciones tradicionales. Estas aplicaciones requieren una conexión a Internet para funcionar, ya que se accede a ellas a través de la web.
+   
+- title: Que son las aplicaciones web?
+  slide-data: Algunos ejemplos comunes de aplicaciones web incluyen -Correo electrónico (como Gmail o Outlook) -Redes sociales (como Facebook, Twitter o Instagram) -Procesadores de texto (como Google Docs)
+   
+  
 ---
 
 {% for slide in page.slides %}
